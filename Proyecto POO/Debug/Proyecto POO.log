@@ -1,0 +1,17 @@
+﻿  Game.cpp
+C:\Proyecto POO\Proyecto POO\Game.cpp(257,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Proyecto POO\Proyecto POO\Game.cpp(295,87): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Proyecto POO\Proyecto POO\Game.cpp(295,51): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Proyecto POO.vcxproj -> C:\Proyecto POO\Debug\Proyecto POO.exe

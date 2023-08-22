@@ -1,0 +1,3 @@
+AGARRAR ALGO Q REDUZCA EL COOLDOWN DE ATAQUE
+A medida de que el jugador aumenta los puntos podria disminuir el spawnTimerMax
+
