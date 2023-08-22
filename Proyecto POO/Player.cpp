@@ -12,7 +12,7 @@ void Player::initVariables()
 void Player::initTexture()
 {
 	//Cargar textura de un archivo
-	if (!this->texture.loadFromFile("C:/Proyecto POO/Textures/ship.png")) 
+	if (!this->texture.loadFromFile("../Textures/ship.png")) 
 	{
 		cout << "ERROR::PLAYER::InitTexture:: No se pudo cargar el archivo" << endl;
 	}

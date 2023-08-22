@@ -11,7 +11,7 @@ void Game::initWindow()
 void Game::initTextures()
 {
 	this->textures["BULLET"] = new sf::Texture();
-	this->textures["BULLET"]->loadFromFile("C:/Proyecto POO/Textures/laserBullet.png");
+	this->textures["BULLET"]->loadFromFile("../Textures/laserBullet.png");
 }
 
 void Game::initGui()
@@ -50,7 +50,7 @@ void Game::initGui()
 
 void Game::initWorld()
 {
-	if (!this->worldBackgroundTex.loadFromFile("C:/Proyecto POO/Textures/backgroundEdit.jpg")) 
+	if (!this->worldBackgroundTex.loadFromFile("../Textures/backgroundEdit.jpg")) 
 	{
 		cout << "FAILED TO LOAD WORLD" << endl;
 	}
